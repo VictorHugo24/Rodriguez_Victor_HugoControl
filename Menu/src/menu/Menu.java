@@ -97,6 +97,8 @@ public class Menu {
              System.out.println("Promedio: "+promedio
                                +"\nNota menor: "+notaMenor
                                +"\nNota mayor: "+notaMayor+"\n");
+         }else if(op == 3){
+             System.out.println("****CLASES****");
          }
             }
                
